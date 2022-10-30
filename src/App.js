@@ -53,9 +53,14 @@ function App() {
        {/* <h1>{firstobj.title + " " + firstobj.describe }</h1> */}
        <div   className='my'>
        <p>{firstobject}</p>
+       
        </div>
     <First />
+    <div className='Aaaa'>
+    <input placeholder='Enter the details'></input>
     </div>
+    </div>
+    
 
   );
        

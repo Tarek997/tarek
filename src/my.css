@@ -18,3 +18,8 @@ box-sizing:border-box;
 border-radius:1rem;
 box-shadow:0 1rem 1rem #ccc
 }
+.Aaaa{
+    align-items: left;
+    font-weight: 900;
+    font-family: serif;
+}
